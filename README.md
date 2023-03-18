@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ZeroMostia
 - 
-- 👀 I’m interested in Untiy
-- 🌱 I’m currently learning Untiy,C++,python
+- 👀 I’m interested in html
+- 🌱 I’m currently learning html,css,js,cpp...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qq1462708225
 
